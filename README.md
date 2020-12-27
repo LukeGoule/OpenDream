@@ -16,4 +16,4 @@ OpenDream is an open source "dream machine" written in C++, utilising DirectX 10
 4) Have fun.
 
 ## Screenshot
-(!)[https://i.imgur.com/lUDbelb.png]
+![](https://i.imgur.com/lUDbelb.png)
