@@ -5,8 +5,9 @@ OpenDream is an open source "dream machine" written in C++, utilising DirectX 10
 ## Getting Started
 
 ### Downloading precompiled binaries
-1) Download from ehehehehe
+1) Download from https://github.com/LukeGoule/OpenDream/releases
 2) Extract ALL the files into the same directory. The program will not function without the .cso files.
+3) Ensure you have the DirectX 10 and VC++2019 end-user redistributables installed. 
 3) Run OpenDream.exe
 
 ### Compiling from source
