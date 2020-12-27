@@ -1,6 +1,6 @@
 # OpenDream
  
-OpenDream is an open source "dream machine" written in C++, utilising DirectX 10 and ImGui to produce strange, almost fully psychedelic effects in your vision.
+OpenDream is an open source "dream machine" written in C++, utilising DirectX 10 and ImGui to produce strange, almost fully psychedelic effects in your vision. The current belief is that waves somewhere between 8hz and 15hz can stimulate a hypnagogic state within the mind, leading to the brain producing patterns not too dissimilar to what may be seen when suddenly waking up from light sleep. To learn more about what a dream machine is see: https://en.wikipedia.org/wiki/Dreamachine.
 
 ## Getting Started
 
